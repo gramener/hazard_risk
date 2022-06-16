@@ -33,5 +33,5 @@ The rooft type is done using inception v3. Image size required is 299 * 299. The
 4) The the notebooks step wise as mentioned in the above sequence
 
 # License
-[MIT LICENSE] (https://opensource.org/licenses/MIT)
+[MIT LICENSE](https://opensource.org/licenses/MIT)
 
