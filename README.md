@@ -32,4 +32,6 @@ The rooft type is done using inception v3. Image size required is 299 * 299. The
 3) Create folder with region_name/input -- Add landsat files, aoi.geojson files and maxar tiff imagery. (for sample use : https://gramener0-my.sharepoint.com/:f:/g/personal/sumedh_ghatage_gramener_com/EnnADtrO7DhAv9f0cPQ9bLABRwQiK3pOV1d9ALxpj4fOoA?e=TXedck)
 4) The the notebooks step wise as mentioned in the above sequence
 
-# Added open liscecnce 
+# License
+[MIT LICENSE] (https://opensource.org/licenses/MIT)
+
